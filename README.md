@@ -9,3 +9,5 @@ A model built using a data set like the image above, as a result of which this m
 in first file model built with SVM and in second file model built with KNN.
 
 [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+
+![image](https://github.com/mse056/Classification/assets/77380435/52c1b22d-fcb8-4bdf-b701-bcdca0ab030d)
