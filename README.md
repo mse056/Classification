@@ -20,4 +20,4 @@ in first file model built with SVM and in second file model built with KNN.
 
 [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
 
-![Uploading image.png…]()
+![image](https://github.com/mse056/Classification/assets/77380435/aa37b01d-cc1f-4ca7-8f2e-cf3e1002def4)
