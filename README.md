@@ -21,3 +21,9 @@ in first file model built with SVM and in second file model built with KNN.
 [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
 
 ![image](https://github.com/mse056/Classification/assets/77380435/aa37b01d-cc1f-4ca7-8f2e-cf3e1002def4)
+
+## bias vs variance :
+
+![Screenshot (62)](https://github.com/mse056/Classification/assets/77380435/c1082876-6fe9-4448-bf15-650444d1272a)
+
+![image](https://github.com/mse056/Classification/assets/77380435/3fb82671-6b84-4a46-86f5-b67bb8f93ad8)
