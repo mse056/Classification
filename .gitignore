@@ -19,3 +19,5 @@ ipython_config.py
 
 /catboost_info
 *.txt
+
+*.csv
